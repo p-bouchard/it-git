@@ -1,0 +1,7 @@
+# Penser à terminer le fichier avec une ligne vide
+#ignorer le répertoire work
+work/
+#Ignorer les documents word
+*.docx
+*.doc
+
